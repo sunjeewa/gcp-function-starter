@@ -1,0 +1,9 @@
+{
+  "name": "gcp-function-starter",
+  "version": "1.0.0",
+  "description": "gcp function starter for nodejs-8",
+  "main": "index.js",
+  "repository": "https://github.com/sunjeewa/gcp-function-starter.git",
+  "author": "Sanjeewa Wijesundara <sun@sanjeewa.org>",
+  "license": "MIT"
+}
